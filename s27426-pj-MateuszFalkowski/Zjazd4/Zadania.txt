@@ -17,7 +17,7 @@ cd ../..
 Zadanie 2
 Masz taki układ katalogów, jak wyżej i ciągle jesteś w katalogu kota. Jak utworzyć poddrzewo katalogów jan/kowalski w katalogu ale za pomocą jednej komendy?
 
-mkdir jan/kowalski /tmp/ukos/kot/ma/ale -p
+mkdir -p jan/kowalski /tmp/ukos/kot/ma/ale 
 
 Zadanie 3
 Masz taki układ katalogów, jak wyżej i ciągle jesteś w katalogu kota. Jak przenieść katalog ale do katalogu i używając:
