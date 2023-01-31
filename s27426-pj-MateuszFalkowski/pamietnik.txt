@@ -18,3 +18,19 @@ Moj drogi pamietniczku na dzisiejszych zajeciach nauczyłem sie że:
 - obsługi polecenia kill
 - skrótów klawiszowych ctrl+C,ctrl+D,ctrl+Z
 - przenoszenie procesów z i do tła
+
+20.11.2022
+Moj drogi pamietniczku dzisiaj była powtórka przed kolokwium
+
+04.12.2022
+Moj drogi pamietniczku dzisaj odbyło się kolokwium
+
+15.01.2023
+Moj drogi pamietniczku na dzisiejszych zajeciach nauczyłem sie że:
+- komendy w powershellu mają stałą konstrukcję nazewniczą 
+- Powershell posiada wiele modułów , które są w nim zainstalowane , ale nie uruchomione 
+- Za pomocą modułu BitsTransfer można ściągać duże pliki z widocznym procesem ściągania
+- Za pomocą Measure-Command można mierzyć czas wykonywania polecenia
+- Można w nim również przeglądać rejestr jak system plików 
+- Za pomocą WMI można zarządzać systemem
+- Za pomocą polecenia Get-PSDrive można wylistować dyski
